@@ -31,7 +31,6 @@ leg will vibrate with the help of vibration motors and when an obstacle comes on
 at the same distance then the left leg will vibrate and if an obstacle comes in front (from 
 front) then both the legs will vibrate indicating the blind person that there is danger and 
 he/she needs to be cautioned.
-https://github.com/Rounakgupta0341/SmartCane/blob/main/image.png
 PRODUCT DIFFERENTIATION:
 The smart cane available in the market has either buzzing sound or vibration on stick, but
 what if the person loses his/her stick somewhere, or 
